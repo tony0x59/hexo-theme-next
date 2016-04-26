@@ -14,7 +14,7 @@ keywords: "Hexo, NexT"
 rss:
 
 # Specify the date when the site was setup
-#since: 2015
+since: 2012
 
 
 
@@ -27,9 +27,9 @@ rss:
 menu:
   home: /
   #categories: /categories
-  #about: /about
   archives: /archives
   tags: /tags
+  about: /about
   #commonweal: /404.html
 
 
@@ -234,7 +234,7 @@ mathjax:
 #duoshuo_shortname:
 
 # Disqus
-#disqus_shortname:
+disqus_shortname: hanning
 
 # Baidu Share
 # Available value:
@@ -320,7 +320,7 @@ baidu_push: false
 #! ---------------------------------------------------------------
 
 # Motion
-use_motion: true
+use_motion: false
 
 # Fancybox
 fancybox: true
